@@ -28,4 +28,14 @@ The approach:
 - Extendable for Raspberry Pi, GSM, buzzer alerts.
 
 ---
+## Hardware 
 
+This project was tested with:
+
+Raspberry Pi 3B+
+
+HDR Camera (Logitech C270 / C920)
+
+GSM module (for SMS alerts)
+
+Buzzer (local alarm)
